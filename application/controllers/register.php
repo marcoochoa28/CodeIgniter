@@ -12,11 +12,7 @@
       $this->load->helper('form');
       //this->load->helper('libreria_helper');
     }
-    function index()
-    {
-      echo "Hola";
-    }
-
+    
     function insertardatos()
     {
      if (isset($_POST['Password'])) {

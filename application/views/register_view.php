@@ -31,7 +31,7 @@
   
   </br>  
   <input type="submit" name="submit" id="submit" value="Registrar">
-<a id="Regis"  href="http://localhost:8000/CodeIgniter/index.php/validacion" >Entrar</a>  
+  <input type="submit" name="iniciar" value ="Iniciar sesión" onclick ="this.form.action='http://localhost:8000/CodeIgniter/index.php/validacion'">
  </form>
 
  </div>  

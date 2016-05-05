@@ -12,10 +12,9 @@ class Entrada_controller extends CI_Controller {
 
 	public function index(){   
 
-		$this->load->database();
 		$this->load->view('consultoria');
 		$this->load->view('entrada_consultoria.html');
-		$p=$this->input->post('grabar');
+	
 
 
 

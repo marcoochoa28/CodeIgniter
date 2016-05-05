@@ -499,3 +499,8 @@ p { background: #fafafa; color: #2F2F2F; font: 1em "soberana_sansregular", Calib
 
 
 .tec{position: absolute; left:500px; }
+
+#bar{
+
+    color: #000000;
+}

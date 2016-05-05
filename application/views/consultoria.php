@@ -15,9 +15,9 @@
        <div id="header">
         <div id="barra_herramientas">
             <div id="acceso" class="group">
-                <a href="index.php">Inicio</a> |
-                <a href="qs.php" target="_blank">CIIE</a> |
-                <a href="contacto.php">Contacto</a>
+                <a id="bar"href="index.php">Inicio</a> |
+                <a  id="bar" href="qs.php" target="_blank">CIIE</a> |
+                <a id="bar" href="contacto.php">Contacto</a>
                 <!--<a href="http://www.itcolima.edu.mx/">Mapa de Sitio</a> |-->
             </div>
         </div>
@@ -58,7 +58,7 @@
                   <li><a href="sc.php" class="">SERVICIOS</a></li>
                   <li><a href="ce.php" class="">CASOS DE ÉXITO</a></li> 
                   <li><a href="capacitacion.php" class="">CAPACITACIÓN</a></li>  
-                  <li><a href="consultoria.php" class="">CONSULTORÍA</a></li>    
+                  <li><a href="http://localhost:8000/CodeIgniter/index.php/entrada_controller" class="">CONSULTORÍA</a></li>    
                   <li><a href="contacto.php" class="">CONTÁCTANOS</a></li>
               </ul> <!-- fin UL principal -->
           </div> <!-- fin de nav bar -->
