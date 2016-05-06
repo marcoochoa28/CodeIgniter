@@ -6,8 +6,10 @@ border-bottom: none;
 padding-top: 2px;
 }
 .tabs-left {
-border-right: 1px solid #ddd;
+background: #FFFFFF;  /* Fondo de las pestañas al pasar el cursor por encima */
+color: #666;  /* Color del texto de las pestañas al pasar el cursor por encima */
 }
+
 .tabs-right {
 border-left: 1px solid #ddd;
 }
